@@ -20,9 +20,9 @@ Aquela que ele mais gostar. Existem várias.
 
 a)  Um formato para as telas de Desktop/Laptop, conforme exemplo abaixo:
 
-![Drag Racing](/src/img/responsiveness_desktop.png)
+![Drag Racing](./responsiveness_desktop.png)
 
 
 b) Outro formato para as telas de Tablet/Mobile, conforme exemplo abaixo:
 
-![Drag Racing](/src/img/responsiveness_mobile.png)
+![Drag Racing](./responsiveness_mobile.png)
